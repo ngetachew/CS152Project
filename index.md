@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS 152 Project - EXAMPLE
 
 You can use the [editor on GitHub](https://github.com/ngetachew/CS152Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
