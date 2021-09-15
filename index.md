@@ -4,7 +4,6 @@ I would like to train a neural network to perform a sentiment analysis on articl
 
 Sentiment analysis can be thought of as a way of extracting the "mood" around a given topic(positive, negative, neutral). This done using natural language processing libraries and neural networks, specifically recurrent neural networks. There are lots of articles and papers about sentiment analysis around the internet, so there would be plenty of resources to help with developing the model. The most significant problem would be getting good data. I found a nice [API](https://newsapi.org/) that gets news articles from keywords and I'm sure there are plenty of others, but otherwise it would be possible to manually scrape data from news websites.
 
-
 ## Goals
 
 - Find a good data pipeline for news articles with specific topics
